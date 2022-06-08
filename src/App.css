@@ -1,0 +1,19 @@
+.app {
+    margin: 10rem;
+}
+
+button {
+    width: 10rem;
+}
+
+h1{
+    text-align: center;
+    padding:50px;
+}
+
+.col{
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
